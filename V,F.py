@@ -5,4 +5,4 @@ if num > 10:
 elif num == 10:
   print("e igual a dez")
 elif num < 10:
-  print(" e maior que dez")
+  print(" e menor que dez")
